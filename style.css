@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(#ee078e 0%,#1744be 100%);
+    color: aquamarine;
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+color: rgb(26, 238, 157);
+}
